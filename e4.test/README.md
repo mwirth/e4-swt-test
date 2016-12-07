@@ -1,0 +1,1 @@
+tests witch e4 using swt
