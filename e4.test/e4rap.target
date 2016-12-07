@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pde version="3.8"?><target name="e4 rap" sequenceNumber="19">
+<locations>
+<location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
+<unit id="org.eclipse.rap.equinox.target.feature.feature.group" version="3.1.1.20160912-1200"/>
+<unit id="org.eclipse.rap.sdk.feature.feature.group" version="3.1.1.20160831-0710"/>
+<unit id="org.eclipse.rap.examples.feature.feature.group" version="3.1.1.20160831-0700"/>
+<unit id="org.eclipse.rap.feature.feature.group" version="3.1.1.20160831-0710"/>
+<repository location="http://download.eclipse.org/rt/rap/3.1"/>
+</location>
+<location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
+<unit id="org.eclipse.rap.e4.target.feature.feature.group" version="0.9.0.rap-20161206-0752"/>
+<repository location="http://download.eclipse.org/rt/rap/incubator/nightly/e4/target/site"/>
+</location>
+</locations>
+</target>
